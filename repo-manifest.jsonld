@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/planteur-benchmark/commit/9f860eef93044cd43bcfc2185fa63a1d09d4b07f",
       "git:hexsha": "9f860eef93044cd43bcfc2185fa63a1d09d4b07f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T19:29:15.532778+00:00"
     }
   ]
 }
