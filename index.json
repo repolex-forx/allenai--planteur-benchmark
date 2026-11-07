@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "planteur-benchmark",
+  "versions": [
+    {
+      "commit": "9f860eef93044cd43bcfc2185fa63a1d09d4b07f",
+      "tag": "",
+      "parsed_at": "2026-11-07T19:29:15.533145+00:00"
+    }
+  ]
+}
